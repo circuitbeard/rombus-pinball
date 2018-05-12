@@ -1,7 +1,7 @@
 @echo off
 
 set hexfile=C:\Users\LattePanda\Desktop\RombusPinball\Arduino\Bin\RombusPinball.hex
-set avrdudeConfigfile=./avrdude.conf
+set avrdudeConfigfile=C:\Users\LattePanda\Desktop\RombusPinball\Arduino\Scripts\avrdude.conf
 
 echo Upgrade procedure starting.
 
